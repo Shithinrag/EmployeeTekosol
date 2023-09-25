@@ -1,13 +1,35 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+	  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	  <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+	  <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="EmployeeTekosol.Repository\**" />
+    <Compile Remove="EmployeeTekosol.Service\**" />
+    <Content Remove="EmployeeTekosol.Repository\**" />
+    <Content Remove="EmployeeTekosol.Service\**" />
+    <EmbeddedResource Remove="EmployeeTekosol.Repository\**" />
+    <EmbeddedResource Remove="EmployeeTekosol.Service\**" />
+    <None Remove="EmployeeTekosol.Repository\**" />
+    <None Remove="EmployeeTekosol.Service\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.151" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.22" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="EmployeeTekosol.Repository\EmployeeTekosol.Repository.csproj" />
+    <ProjectReference Include="EmployeeTekosol.Service\EmployeeTekosol.Service.csproj" />
   </ItemGroup>
 
 </Project>

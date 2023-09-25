@@ -1,0 +1,12 @@
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.csproj.AssemblyReference.cache
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.AssemblyInfoInputs.cache
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.AssemblyInfo.cs
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\bin\Debug\net6.0\EmployeeTekosol.Repository.deps.json
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\bin\Debug\net6.0\EmployeeTekosol.Repository.dll
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\bin\Debug\net6.0\EmployeeTekosol.Repository.pdb
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.dll
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\refint\EmployeeTekosol.Repository.dll
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\EmployeeTekosol.Repository.pdb
+C:\Users\rboffice\GitHub\EmployeeTekosol\EmployeeTekosol.Repository\obj\Debug\net6.0\ref\EmployeeTekosol.Repository.dll
